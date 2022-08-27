@@ -2,5 +2,5 @@
 #define AA_H_INCLUDED
 
 int  Sum_V(int a, int b);
-
+int  Div_V(int a, int b);
 #endif // AA_H_INCLUDED
